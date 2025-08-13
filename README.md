@@ -31,18 +31,19 @@ On win: you’ll see total **moves**, **time**, and a nice celebration.
 
 ---
 
-## 🤳 Screens
-- **Home Screen:**
-- **Puzzle Screen:** 
+## 📱 Screens
+- **Home Screen:** Entry point to start the puzzle.
+- **Puzzle Screen:** Main game interface with timer, move counter, and puzzle grid.
 
 ---
 
 ## 🎥 Video
-
+https://github.com/user-attachments/assets/29789803-6206-434c-92fa-c4a66d8ec226
 
 ---
 
-- Contributions are welcome 💜
-- If you encounter any issues or have suggestions for improvements, please open an issue or submit a pull request. -->
+## 🤝 Contributions
+- Contributions are welcome 💜!
+- If you find any bugs 🐞, have ideas 💡, or want to improve the game, please open an issue or submit a pull request.
 
-
+---
