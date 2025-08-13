@@ -1,16 +1,48 @@
-# sorting_puzzle
+# 🌟 Sorting Puzzle 
 
-A new Flutter project.
+[![Flutter](https://img.shields.io/badge/Flutter-3.x-02569B?logo=flutter&logoColor=white)](#)
+[![Dart](https://img.shields.io/badge/Dart-3.x-0175C2?logo=dart&logoColor=white)](#)
+[![License](https://img.shields.io/badge/License-MIT-green.svg)](#license)
 
-## Getting Started
+A fun, minimal, and challenging logic game where you swap scrambled tiles until they’re in the correct order. Great for testing memory, focus, and problem‑solving!
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+## ✨ Features
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- 🧩 **9-Tile Grid** (numbers 0–8)
+- 🔄 **Shuffle** to start a fresh round
+- ⏱ **Timer** & 🎯 **Move Counter**
+- 💬 **Hints**: “Tap a tile to select” → “Tap another tile to swap”
+- 🎉 **Win Celebration** (confetti + sound + dialog)
+- 📱 **Clean, responsive UI**
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## 🎮 Gameplay
+
+1. Tap a tile to **select** (it highlights in green).
+2. Tap another tile to **swap** positions.
+3. Repeat until tiles are in **ascending order**.
+4. Aim for **fewest moves** and **shortest time**!
+
+**Winning condition:** Every tile index matches its position (sorted order).  
+On win: you’ll see total **moves**, **time**, and a nice celebration.
+
+---
+
+## 🤳 Screens
+- **Home Screen:**
+- **Puzzle Screen:** 
+
+---
+
+## 🎥 Video
+
+
+---
+
+- Contributions are welcome 💜
+- If you encounter any issues or have suggestions for improvements, please open an issue or submit a pull request. -->
+
+

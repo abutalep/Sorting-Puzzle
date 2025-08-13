@@ -1,7 +1,7 @@
 import 'dart:io';
 
 import 'package:flutter/material.dart';
-import 'package:sorting_puzzle/views/screens/puzzel_screen.dart';
+import 'package:sorting_puzzle/views/screens/puzzle_screen.dart';
 import 'package:sorting_puzzle/views/widgets/text_button_widget.dart';
 
 class HomeScreen extends StatelessWidget {
